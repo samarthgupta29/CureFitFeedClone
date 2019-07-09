@@ -1,0 +1,140 @@
+{
+  "cultFeed": [
+    {
+      "type": "cultunlimitedmembership_header",
+      "headerInfo_1": "Access to 180+ Cult Centres",
+      "headerInfo_2": "Free access to mind.fit & outdoor centers",
+      "headerInfo_3": "Attend unlimited number of classes",
+      "cultunlimitedmembership_details": [
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        },
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        },
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        }
+      ]
+    },
+    {
+      "type": "cultmonthlysubscription_header",
+      "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+      "info": "Pay monthly for your membership, get unlimited access and many more",
+      "first_month": "5990",
+      "second_month_onwards": "4990"
+    },
+    {
+      "type": "cultselectmembership_header",
+      "headerInfo_1": "Access to one Cult center only",
+      "headerInfo_2": "Access to mind.fit not included",
+      "headerInfo_3": "Attend unlimited classes",
+      "headerInfo_4": "Available at select centers only",
+      "cultselectmembership_details": [
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        },
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        },
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        }
+      ]
+    },
+    {
+      "type": "whycultfit_header",
+      "headerInfo_1": "Four reasons you should join Cult",
+      "whycultfit_details": [
+        {
+          "heading": "Trainer led sessions",
+          "info": "Workout with real athletes,Learn skills and techniques for life"
+        },
+        {
+          "heading": "Group Classes",
+          "info": "Highly engaging and energy packed. You will never lose the tempo"
+        },
+        {
+          "heading": "Multiple formats",
+          "info": "Formats for one and all. Mix them up to break the routine"
+        },
+        {
+          "heading": "State of the art centers",
+          "info": "Never seen before centers. Feel the vibe of being an athlete"
+        }
+      ]
+    },
+    {
+      "type": "cultworkout_header",
+      "headerInfo_1": "Workout formats for one and all",
+      "cultworkout_details": [
+        {
+          "name": "Yoga",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "name": "Boxing",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "name": "Strength & Conditioning",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "name": "Sports Conditioning",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "name": "Sports",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "name": "Dance Fitness",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        }
+      ]
+    },
+    {
+      "type": "trainer_header",
+      "headerInfo_1": "Train with real life athletes",
+      "trainer_details": [
+        {
+          "trainer_name": "Diwan Vishwakarma",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "trainer_name": "Luxmi",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "trainer_name": "Neha Bharadwaj",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "trainer_name": "Prince Khatri",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "trainer_name": "Rishabh Telang",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "trainer_name": "Ritesh Telang",
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        }
+      ]
+    }
+  ]
+}

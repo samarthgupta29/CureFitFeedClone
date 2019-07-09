@@ -1,0 +1,382 @@
+{
+  "eatFeed": [
+    {
+      "type": "header",
+      "food": null,
+      "navItem": {
+        "id": "0",
+        "name": "Power Breakfasts"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "header",
+      "food": null,
+      "navItem": {
+        "id": "0",
+        "name": "Combos"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1489450278009-822e9be04dff?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "header",
+      "food": null,
+      "navItem": {
+        "id": "0",
+        "name": "Snacks"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "header",
+      "food": null,
+      "navItem": {
+        "id": "0",
+        "name": "Drinks"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "header",
+      "food": null,
+      "navItem": {
+        "id": "0",
+        "name": "Desserts"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "header",
+      "food": null,
+      "navItem": {
+        "id": "0",
+        "name": "Health Bites"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    },
+    {
+      "type": "foodItem",
+      "parent_id": "0",
+      "food": {
+        "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "dish_title": "Bread Omelette With Roast Potato Wedges",
+        "type": "non-veg",
+        "calorie_count": "338 Cal",
+        "diet_type": "Low carb",
+        "fitcash_amount": "50",
+        "actual_price":"99",
+        "discounted_price": "145",
+        "cart": "ADD"
+      }
+    }
+  ]
+}

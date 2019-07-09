@@ -1,0 +1,77 @@
+{
+  "mindFeed": [
+    {
+      "type": "whymindfit_header",
+      "headerInfo_1": "Four reasons you should join mind.fit",
+      "whymindfit_details": [
+        {
+          "heading": "Complete Mind-body formats",
+          "info": "Mind-Body workouts for one and all"
+        },
+        {
+          "heading": "Best-in-class Trainers",
+          "info": "Practice with the best. Learn skills and techniques for life"
+        },
+        {
+          "heading": "State-of-the-art Centres",
+          "info": "Experience peace and calm your happy place"
+        },
+        {
+          "heading": "Unlimited Daily Sessions",
+          "info": "Pick any centre and slot that suits you"
+        }
+      ]
+    },
+    {
+      "type": "mindunlimitedmembership_header",
+      "headerInfo_1": "Access to all Mind.fit Centres",
+      "headerInfo_2": "Unlimited number of classes",
+      "unlimitedmembership_details": [
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        },
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        },
+        {
+          "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+          "price": "41790",
+          "offer_price": "19990"
+        }
+      ]
+    },
+    {
+      "type": "mindmonthlysubscription_header",
+      "image_url": "https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ",
+      "info": "Pay monthly for your membership, get unlimited access and many more",
+      "first_month": "5990",
+      "second_month_onwards": "4990"
+    },
+    {
+      "type": "mindworkout_header",
+      "headerInfo_1": "Yoga, Pranayama, Meditation and more",
+      "workout_details": [
+        {
+          "name": "Hatha Yoga",
+          "image_url":"https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "name": "Power Yoga",
+          "image_url":"https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "name": "Relax Yoga",
+          "image_url":"https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        },
+        {
+          "name": "Dance For Joy",
+          "image_url":"https://images.unsplash.com/photo-1560101453-cdddafd062ba?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjgwNDg4fQ"
+        }
+      ]
+    }
+  ]
+}
